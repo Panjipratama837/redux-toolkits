@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1667981784507,
+      "title": "Learn Golang",
+      "completed": true
+    },
+    {
+      "id": 1667983069668,
+      "title": "asd",
+      "completed": true
+    },
+    {
+      "id": 1667983076058,
+      "title": "asd",
+      "completed": true
+    },
+    {
+      "id": 1667983799832,
+      "title": "Learn React",
+      "completed": false
+    }
+  ]
+}
